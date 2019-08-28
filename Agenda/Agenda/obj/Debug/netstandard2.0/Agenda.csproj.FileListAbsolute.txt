@@ -1,0 +1,14 @@
+D:\apps\Agenda\Agenda\Agenda\bin\Debug\netstandard2.0\Agenda.deps.json
+D:\apps\Agenda\Agenda\Agenda\bin\Debug\netstandard2.0\Agenda.dll
+D:\apps\Agenda\Agenda\Agenda\bin\Debug\netstandard2.0\Agenda.pdb
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\Agenda.csprojAssemblyReference.cache
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\views\LoginUser.xaml.g.cs
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\Agenda.csproj.CoreCompileInputs.cache
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\Agenda.AssemblyInfoInputs.cache
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\Agenda.AssemblyInfo.cs
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\XamlC.stamp
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\Agenda.dll
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\Agenda.pdb
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\views\ContactsPage.xaml.g.cs
+D:\apps\Agenda\Agenda\Agenda\obj\Debug\netstandard2.0\views\DetailContacsPage.xaml.g.cs
